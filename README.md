@@ -1,1 +1,1 @@
-# TheTImer
+# TheTimer
